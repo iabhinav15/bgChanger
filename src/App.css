@@ -1,0 +1,21 @@
+
+.colorchange{
+  margin: auto;
+  justify-content: center;
+  gap: 1rem;
+  background-color: white;
+  padding: 1rem;
+  width: 40vw; 
+  border-radius: 1rem;
+}
+
+.main .myname{
+  color: white;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  position: relative;
+  top: 50px;
+}
+
